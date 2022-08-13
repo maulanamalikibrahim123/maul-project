@@ -1,12 +1,16 @@
-Rencana KontenKu
+----Rencana KontenKu----
 
 FRONT END
 html
 css
--Membuat Javascript
+  *framework css
+   #bootstrap
+
+Javascript
   *Framework
     #ReactJs
 
 
 BACKEND
 phyton
+
